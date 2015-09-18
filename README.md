@@ -1,1 +1,3 @@
-![js-tools-tree](images/pic.png)
+![js-dev](images/js-dev.png)
+
+![front-end](images/front-end.png)
