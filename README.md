@@ -1,4 +1,4 @@
-![node-dev](images/node-dev.png)
+![node](images/node.png)
 
 ![front-end](images/front-end.png)
 
